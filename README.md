@@ -7,8 +7,8 @@ Further Plans:
 Can we predict individual player performance? We will focus on one player through the 2017-2018 nba season and use the results from our initial project as well as more ML to see how well we can predict their game to game performance throughout the season.
 
 Dependancies (so far):
-selenium 
-chromedriver
-beautifulsoup
-json
+selenium, 
+chromedriver,
+beautifulsoup,
+json,
 numpy
