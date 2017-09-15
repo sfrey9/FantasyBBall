@@ -11,4 +11,5 @@ selenium,
 chromedriver,
 beautifulsoup,
 json,
-numpy
+numpy,
+pickle
